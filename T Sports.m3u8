@@ -1,0 +1,6 @@
+#EXTINF:-1 group-title="TSPORTS" tvg-logo="https://image.tsports.com/images/mobile_logo/1718274547-LIVE.jpg",T SPORTS 1
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="TSPORTS" tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png",T SPORTS 2
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:-1 group-title="TSPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_nGqGwwHrdJhkoLEiziPyVG8CV-7lSoagY2CJs23qg",Cricket Highlight
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
