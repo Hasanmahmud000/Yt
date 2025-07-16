@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:42253
+#EXT-X-TARGETDURATION:7
+#EXTINF:6.000,
+http://line.furious-pro.cc:80/live/07A960/15F07A/99708.ts
+#EXTINF:6.002,
+http://line.furious-pro.cc:80/live/07A960/15F07A/99708.ts
+#EXTINF:7.198,
+http://line.furious-pro.cc:80/live/07A960/15F07A/99708.ts
